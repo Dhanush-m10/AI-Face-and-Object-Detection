@@ -20,7 +20,7 @@ A real-time computer vision web application that detects **human faces (persons)
 - **YOLOv8**
   - Face detection model trained on **WIDER FACE**
   - Object detection model trained on **Open Images**
-- **Ultralytics**
+- Ultralytics
 
 workable link - http://127.0.0.1:5000
 
